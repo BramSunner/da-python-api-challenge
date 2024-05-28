@@ -80,3 +80,8 @@ All of the remaning graphs produce r-squared values of 0 (if not so close to 0 t
 # Built In
 Python.  
 Jupyter Notebook.  
+
+# Acknowledgements
+
+In the project VacationPy, in cells 3 and 8, I used the Xpert Learning Assistant to help me figure out how to make different colors for points in an hvplot.pandas plot.  
+I did not use particular code given by the assistant; however, the entire concept of adding a row that specifies color values for the points was given to me from that.
